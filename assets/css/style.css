@@ -160,6 +160,18 @@ a:hover {
   color: #4e4e4e;
 }
 
+.title-b {
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.subtitle-a {
+  text-decoration: none;
+  color: #4e4e4e;
+}
+
 .line-mf {
   width: 40px;
   height: 5px;
